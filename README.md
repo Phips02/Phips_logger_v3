@@ -14,8 +14,9 @@ Un système de logging **simplifié** et **robuste** pour vos scripts Bash.
 ## 🚀 Installation rapide
 
 ```bash
-# Cloner ou télécharger le script
-curl -O https://raw.githubusercontent.com/Phips02/Phips_logger_v3/main/logger.sh
+# Cloner le dépôt
+git clone https://github.com/Phips02/Phips_logger_v3.git
+cd Phips_logger_v3
 
 # Installation système (optionnel)
 sudo ./install.sh
