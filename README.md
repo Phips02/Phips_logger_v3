@@ -15,7 +15,7 @@ Un système de logging **simplifié** et **robuste** pour vos scripts Bash.
 
 ```bash
 # Cloner ou télécharger le script
-curl -O https://raw.githubusercontent.com/Phips02/Bash/main/Phips_logger_V2/logger.sh
+curl -O https://raw.githubusercontent.com/Phips02/Phips_logger_v3/main/logger.sh
 
 # Installation système (optionnel)
 sudo ./install.sh
